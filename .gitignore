@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/MyMSTSApp/.vs/MyMSTSApp/v17
+/MyMSTSApp/MyConsoleApp/bin/Debug/net6.0
+/MyMSTSApp/MyConsoleApp/obj
